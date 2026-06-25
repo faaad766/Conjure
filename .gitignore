@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+output
+*.local
+package-lock.json
+playwright-report
+test-results
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+package.json.[0-9]*
+
+# Cache / build
+.vite_cache
+
+# Environment secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# Internal / platform artifacts
+.sync
+history/*.json
+.sync
+historical_context.txt
+tasks/
+.skills/
+.rules/
+docs/
+/.skills
+/tasks
