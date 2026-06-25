@@ -274,9 +274,6 @@ Please ensure `pnpm run lint` passes before submitting.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 ## 🙏 Acknowledgements
 
